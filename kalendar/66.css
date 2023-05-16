@@ -1,0 +1,13 @@
+#parent {
+	text-align: center;
+    margin-top: 100px;
+}
+#calendar {
+	display: inline-block;
+}
+#calendar td, #calendar th {
+	padding: 5px 12px;
+	border: 1px solid rgb(0, 255, 179);
+    color: rgb(212, 0, 255);
+	text-align: center;
+}
